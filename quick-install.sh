@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-REPO_BASE_URL="https://github.com/DataDog/datadog-ci"
+REPO_BASE_URL="https://github.com/AdrianLC/datadog-ci"
 INSTALL_PATH="/usr/local/bin/datadog-ci"
 
 function download {
